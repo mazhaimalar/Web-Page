@@ -1,0 +1,30 @@
+{
+  "name": "webpage",
+  "version": "1.0.0",
+  "description": "a simple webpage",
+  "main": "Day1.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build" : "webpack "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mazhaimalar/Web-Page.git"
+  },
+  "keywords": [
+    "Js",
+    "Webpack",
+    "Node.Js"
+  ],
+  "author": "gayathri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mazhaimalar/Web-Page/issues"
+  },
+  "homepage": "https://github.com/mazhaimalar/Web-Page#readme",
+  "devDependencies": {
+    "webpack": "^5.66.0"
+  }
+}
+src\JS
